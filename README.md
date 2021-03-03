@@ -1,1 +1,1 @@
-Just to create a conflict.
+Conflict from local repository
